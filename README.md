@@ -1,16 +1,21 @@
-## Hi there 👋
+# Audesi
 
-<!--
-**Audesi/audesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build structured systems around signal, data, and automation.
 
-Here are some ideas to get you started:
+That has included:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lead management platforms tied directly to revenue flow  
+- Customer data and event processing systems  
+- Conversion reconciliation and reporting infrastructure  
+- Intelligence and intent modeling pipelines  
+- AI-driven automation embedded into operational tooling  
+- DSP and sampler architectures for audio production  
+
+Most of my work lives at the intersection of data modeling, background processing, and real-world operational constraints.
+
+## Principles
+
+- Structure before abstraction  
+- Durable over trendy  
+- Production over prototype  
+- Signal over noise
