@@ -1,4 +1,4 @@
-# System Builder
+# Systems Builder
 
 I build systems around signal, data, and automation.
 
