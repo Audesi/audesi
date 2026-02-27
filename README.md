@@ -9,9 +9,10 @@ Work has included:
 - Conversion reconciliation and reporting infrastructure
 - Intelligence and intent modeling pipelines
 - Automation embedded into operational tooling
+- Operational interfaces for complex systems
 - DSP and sampler architectures for audio production
 
-Most of it sits in data modeling, background processing, and real operational constraints.
+Most of it sits in data modeling, background processing, access control, and real operational constraints.
 
 ## Principles
 
