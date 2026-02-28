@@ -1,8 +1,8 @@
-# Systems Builder
+# 👋 Hi, I'm Earl Dixon
 
 I build systems around signal, data, and automation.
 
-Work has included:
+## Work has included:
 
 - Lead management platforms tied to revenue flow
 - Customer data and event processing systems
